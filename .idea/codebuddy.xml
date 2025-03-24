@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodebuddyPersistentProjectState">
+    <option name="autoFileSelection" value="true" />
+    <option name="promptHistory">
+      <list>
+        <option value="Write a python program to implement a fuzzy set assuming the fuzzy set will be in trapezoidal form, using the following steps:&#10;&#10;1. Define a class to represent a point (in Euclidean 2-D plain)&#10;2. Using this, define a class to represent a 2D straight line when two points on it are given&#10;3. Write a function to display a straight line&#10;3. Using this, display the two lines - Line1 from (0,4) to (4,0) and Line2 from (0,0) to (4,4)&#10;4. Now, define a class called Fuzzy_set, with 4 given points left_bottom, left_top, right_top and right_bottom&#10;5. Write a function to display the fuzzy set&#10;6. Using this, create and display the fuzzy set fs, whose 4 points are (20,0), (40,1), 50,1) and (70,0)&#10;6. Write a function that takes one fuzzy set as input and returns the complement of this fuzzy set as output&#10;7. Using this, find fsc - the complement of fs and display it&#10;7. Write a function to calculate the membership of a point in a fs&#10;8. Using this calculate and display the membership of the points 20, 25, 30, 35, 40, 45, 50, 55, 60, 65 and 70 in both fs and fsc" />
+        <option value="please remove all the comments and add question number and a conside txt&#10;&#10;#1.Class to represent a point" />
+      </list>
+    </option>
+    <option name="selectedModel" value="codebuddy:CLAUDE_3.5_SONNET_V7" />
+    <option name="ttsEnabled" value="false" />
+  </component>
+</project>
