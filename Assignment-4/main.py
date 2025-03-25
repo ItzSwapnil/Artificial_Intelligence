@@ -107,7 +107,7 @@ def main():
     print("-" * 40)
     for x in test_points:
         orig = fs.membership(x)
-        comp = fsc.membership(x)
+        comp = fs.membership(x - 1)
         print(f"{x}\t{orig:.2f}\t\t{comp:.2f}")
 
 if __name__ == "__main__":
